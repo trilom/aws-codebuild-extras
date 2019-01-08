@@ -10,12 +10,12 @@ Add the following command to the `install` or `pre_build` phase of your buildspe
 |NAME|VALUE
 |---|---|
 |CI|true|
-|CODEBUILD|true|
-|CODEBUILD_GIT_AUTHOR|Committer Name|
-|CODEBUILD_GIT_AUTHOR_EMAIL|user@example.com|
-|CODEBUILD_GIT_BRANCH|branch name|
-|CODEBUILD_GIT_COMMIT|commit hash|
-|CODEBUILD_GIT_MESSAGE|commit message|
-|CODEBUILD_GIT_TAG|git tag|
-|CODEBUILD_PROJECT|project|
-|CODEBUILD_PULL_REQUEST|Pull request number|
+|CB|true|
+|CB_GIT_AUTHOR|Committer Name|
+|CB_GIT_AUTHOR_EMAIL|user@example.com|
+|CB_GIT_BRANCH|branch name|
+|CB_GIT_COMMIT|commit hash|
+|CB_GIT_MESSAGE|commit message|
+|CB_GIT_TAG|git tag|
+|CB_PROJECT|project|
+|CB_PULL_REQUEST|Pull request number|
